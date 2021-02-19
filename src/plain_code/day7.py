@@ -17,6 +17,8 @@ for i in a:
     print(i)
 
 print(a.__contains__(10086))
+#亦可以写作 10086 in a
+print(10086 in a)
 
 for i in a:
     print(i)
