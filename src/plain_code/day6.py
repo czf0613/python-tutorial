@@ -3,7 +3,7 @@ a = [1, 2, 3, 4, 5, 6]
 b = '123456789'
 
 '''
-for i in b:
+for i in a:
     print(i)
 '''
 
